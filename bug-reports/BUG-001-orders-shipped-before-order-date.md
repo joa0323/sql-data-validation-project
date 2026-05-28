@@ -66,7 +66,7 @@ Always reproducible
 ## Evidence
 See screenshot:
 
-`bug_001_orders_shipped_before_order_date.png`
+![VC_025](../screenshots/VC_025.png)
 
 ---
 
